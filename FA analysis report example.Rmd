@@ -28,7 +28,7 @@ All of the questions are rated from 1 (very much like me) to 6 (not at all like 
   
 We will use a package named [Psych](https://cran.r-project.org/web/packages/psych/index.html):
   
-```{r pacotes}
+```{r packages}
 library(psych)
 ```
   
